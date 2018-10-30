@@ -1,0 +1,7 @@
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\bin\Debug\Programa47.exe.config
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\bin\Debug\Programa47.exe
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\bin\Debug\Programa47.pdb
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\obj\Debug\Programa47.csprojAssemblyReference.cache
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\obj\Debug\Programa47.csproj.CoreCompileInputs.cache
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\obj\Debug\Programa47.exe
+C:\Users\matheus.munhoz\source\repos\Programa47\Programa47\obj\Debug\Programa47.pdb
