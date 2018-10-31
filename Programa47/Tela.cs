@@ -95,6 +95,11 @@ namespace Programa47
 
 
         }
+
+        public static olaMundo()
+        {
+            Console.WriteLine("Ola");
+        }
        
     }
 }
